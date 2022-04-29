@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "acc_sensor", "acc_sensor\acc_sensor.cproj", "{80DB65C8-BA12-43E8-9827-451DDDB44DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DB65C8-BA12-43E8-9827-451DDDB44DDA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{80DB65C8-BA12-43E8-9827-451DDDB44DDA}.Debug|ARM.Build.0 = Debug|ARM
+		{80DB65C8-BA12-43E8-9827-451DDDB44DDA}.Release|ARM.ActiveCfg = Release|ARM
+		{80DB65C8-BA12-43E8-9827-451DDDB44DDA}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
