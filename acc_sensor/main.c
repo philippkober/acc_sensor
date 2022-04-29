@@ -39,7 +39,7 @@ static void rx_cb_USART(const struct usart_async_descriptor *const io_descr)
 {
 	uint8_t ch;
 	
-	// Read  a Character
+
 	io_read(&Serial.io, &ch, 1);
 	
 	if(ch == '1')
